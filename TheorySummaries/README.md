@@ -12,9 +12,10 @@ For the **oral exam**, the student draws *one* of these topics and discusses it 
 
 ## Sources used
 
-- **Lecture slides actually delivered so far** (as of 2026-09-07): `UXU 1 Introduction.pdf` (24–30 Aug 2026) and `UXU 2 Cognition.pdf` (7 Sep 2026). Content taken directly from these is marked as such.
+- **Lecture slides delivered so far** (as of 2026-09-21): `UXU 1 Introduction.pdf` (24–30 Aug), `UXU 2 Cognition.pdf` (7 Sep), `UXU 3 Social interaction.pdf` (14 Sep), `UXU 4 Emotional Design.pdf` (17 Sep). Content taken directly from these is marked as such.
 - **Course textbook**: Preece, Sharp & Rogers, *Interaction Design: Beyond Human-Computer Interaction*, 5th edition (Wiley, 2019) — the standard reference this course is built on. Relevant chapters: Ch.4 Cognitive Aspects, Ch.5 Social Interaction, Ch.6 Emotional Interaction, Ch.12 Design/Prototyping (Wizard of Oz), Ch.14–16 Evaluation.
-- **Standard HCI/UX literature** for topics the two available lecture decks haven't reached yet, or that the textbook doesn't name explicitly (Hedonics' Hassenzahl model, Authenticity, Instant Data Analysis) — clearly flagged in each file so you know what's "official course material" vs. "background theory to prepare for the upcoming lecture on this."
+- **Donald A. Norman, _Emotional Design: Why We Love (or Hate) Everyday Things_ (2004)** — added to `CourseMaterial` alongside the Emotional Design lecture; the primary source for the 3-level model and "attractive things work better."
+- **Standard HCI/UX literature** for topics the lectures haven't reached yet, or that the textbook doesn't name explicitly (Hedonics' Hassenzahl model, Authenticity, Instant Data Analysis) — clearly flagged in each file so you know what's "official course material" vs. "background theory to prepare for the upcoming lecture on this."
 
 ## Files
 
@@ -36,4 +37,4 @@ For the **oral exam**, the student draws *one* of these topics and discusses it 
 - Exam: individual oral exam (20 min), based on one submitted course assignment + a drawn curriculum topic.
 - Main purpose: understand the user's mind and feelings (cognition, emotion, authenticity, hedonics) to design better, more usable experiences, validated through usability testing (including eye-tracking / neuro-sensors, Wizard of Oz, and Instant Data Analysis).
 
-**Note:** only two lectures' worth of slides exist in `CourseMaterial` at the time these notes were written. As more lecture decks are added (Emotional Design, Social Interaction, Hedonics, Authenticity, Usability Testing sessions), these summaries should be revisited and updated with the professor's actual examples/terminology.
+**Status of the notes (2026-09-21):** four lecture decks exist in `CourseMaterial`, so Interaction Design, Cognition, Social Interaction and Emotional Design are grounded in the professor's own slides. **Hedonics, Authenticity, Usability Testing, Wizard of Oz and Instant Data Analysis are still pre-lecture background** — revisit those five files as their decks are handed out.
